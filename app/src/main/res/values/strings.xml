@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Add test app</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="type_first_number">Type a number</string>
+    <string name="type_second_number">Type a number</string>
+    <string name="add">ADD</string>
+    <string name="result">Result</string>
+</resources>
